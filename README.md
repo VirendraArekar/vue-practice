@@ -1,24 +1,16 @@
-# prac
-
 ## Project setup
 ```
 yarn install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Practice
+* Used - Node Js, Vue Js 3.0, Yarn
+* This cover all concept of vue js .
+* Use State Management Vutex like React(Redux).
+* Call Api Through Vue Js.
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
